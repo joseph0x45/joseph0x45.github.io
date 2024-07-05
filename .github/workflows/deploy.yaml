@@ -25,10 +25,8 @@ jobs:
           done
 
       - name: Deploy to GitHub Pages
-        uses: JamesIves/github-pages-deploy-action@4.1.5
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          branch: gh-pages  # Or your GitHub Pages branch
-          folder: dist  # Specify the folder containing HTML files to deploy
+          github_token: ${{ secrets.GH_TOKEN }}  # Use your secret here
+          publish_dir: ./dist
           clean: true  # Optional: Clean existing files before deployment
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
