@@ -17,11 +17,14 @@ jobs:
       - name: Create dist folder
         run: mkdir -p dist  # Create dist folder if it doesn't exist
 
+      - name: Copy styles
+        run: cp styles.css dist/styles.css  # Copy custom styles to dist folder
+
       - name: Convert Markdown to HTML
         run: |
           find . -name "*.md" | while read file; do
           mkdir -p dist/"$(dirname "$file")"
-          pandoc "$file" -o "dist/${file%.md}.html"
+          pandoc "$file" --template=custom.html -o "dist/${file%.md}.html"
           done
 
       - name: Deploy to GitHub Pages
