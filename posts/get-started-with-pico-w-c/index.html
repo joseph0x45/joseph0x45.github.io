@@ -82,8 +82,10 @@
   </p>
   <p>
     First, we need to tell CMake where to find our sdk, so run <strong>export PICO_SDK_PATH=/path/to/sdk</strong>. That
-    done, from the build directory, run the following command <strong>cmake ..</strong> Which essentially means to
-    generate the build files for the configuration that is in the folder above. It will generate a bunch of files. Next
+    done, from the build directory, run the following command <strong>cmake -DPICO_BOARD=pico_w ..</strong> Which
+    essentially means to
+    generate the build files for the configuration that is in the folder above. If you were using a regular Pico you
+    would just run <strong>cmake ..</strong>. It will generate a bunch of files. Next
     run <strong>make</strong> to compile the project. When it's done, you should have another bunch of files generated
     and among them should be a <strong>.uf2</strong> file, that is the one file we need to copy to our board.
   </p>
