@@ -6,3 +6,18 @@ body {
   width: 100%; 
   color: white;
 }
+a:link {
+  color: #7a9ac1; /* Soft blue color */
+}
+
+a:visited {
+  color: #9be2e8; /* Lighter blue for visited links */
+}
+
+a:hover {
+  color: #a8d0e6; /* Even lighter blue on hover */
+}
+
+a:active {
+  color: #5f8ca1; /* Darker blue when active */
+}
