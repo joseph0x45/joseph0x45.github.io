@@ -22,3 +22,59 @@
 | Boiled Egg              | 155                 | 13          | 11      | 1         | 0         | 140        | 0          | 1.2       | 50           | 50                  | 78                   | Protein, vitamin A & fat        |
 | Plantain (boiled)       | 122                 | 1.3         | 0.4     | 31        | 2.3       | 50         | 18         | 0.6       | 20           | 150                 | 183                  | Carb & vitamin C source         |
 | Fish (tilapia, cooked)  | 128                 | 26          | 3       | 0         | 0         | 0          | 0          | 1         | 20           | 120                 | 154                  | Lean protein                    |
+
+
+# Macros
+
+| Macronutrient | Grams per Day | Calories    | % of Total Calories |
+| ------------- | ------------- | ----------- | ------------------- |
+| Protein       | 200 g         | 800 kcal    | 42%                 |
+| Fat           | 53 g          | 475 kcal    | 25%                 |
+| Carbohydrates | 156 g         | 625 kcal    | 33%                 |
+| **Total**     | —             | \~1900 kcal | 100%                |
+
+# 7 day meal plan
+
+| Day   | Meal        | Menu                                                                                   | Est. Protein (g)   | Est. Fat (g)   | Est. Carbs (g)   | Calories (kcal)   |
+| ----- | ----------- | -------------------------------------------------------------------------------------- | ------------------ | -------------- | ---------------- | ----------------- |
+| 1     | Breakfast   | 3 boiled eggs + 150g Akume                                                             | 21 + 6 = 27        | 15             | 40               | \~430             |
+|       | Snack       | 150g Peanut sauce + 100g Garri                                                         | 11                 | 20             | 30               | \~350             |
+|       | Lunch       | 180g Chicken breast + 150g Cooked yam + 100g Gboma sauce                               | 54 + 3 + 3 = 60    | 5              | 30               | \~460             |
+|       | Snack       | 150g Beans + 100g Tomato sauce                                                         | 15 + 2 = 17        | 2              | 25               | \~210             |
+|       | Dinner      | 180g White rice + 150g Deku (palm nut sauce) + 100g Gboma sauce                        | 4 + 12 + 3 = 19    | 10             | 31               | \~450             |
+| ----- | ----------- | -------------------------------------------------------------------------------------- | ------------------ | -------------- | ---------------- | ----------------- |
+| 2     | Breakfast   | 3 boiled eggs + 150g Ablo                                                              | 21 + 6 = 27        | 15             | 45               | \~430             |
+|       | Snack       | 100g Beans + 50g Peanut sauce                                                          | 10 + 8 = 18        | 10             | 15               | \~230             |
+|       | Lunch       | 180g Chicken breast + 150g White rice + 100g Ademe sauce                               | 54 + 4 + 3 = 61    | 5              | 35               | \~470             |
+|       | Snack       | 1 small plantain (150g)                                                                | 1                  | 0              | 35               | \~150             |
+|       | Dinner      | 150g Fried yam + 150g Peanut sauce + 100g Gboma sauce                                  | 3 + 15 + 3 = 21    | 15             | 30               | \~450             |
+| ----- | ----------- | -------------------------------------------------------------------------------------- | ------------------ | -------------- | ---------------- | ----------------- |
+| 3     | Breakfast   | 2 eggs scrambled + 150g Akume                                                          | 14 + 6 = 20        | 12             | 40               | \~370             |
+|       | Snack       | 100g Garri + 100g Peanut sauce                                                         | 3 + 16 = 19        | 20             | 30               | \~400             |
+|       | Lunch       | 180g Chicken breast + 150g White rice + 100g Fetri (okra sauce)                        | 54 + 4 + 3 = 61    | 5              | 35               | \~470             |
+|       | Snack       | 1 boiled egg + 1 small tomato                                                          | 6 + 1 = 7          | 5              | 5                | \~80              |
+|       | Dinner      | 150g Cooked yam + 150g Gboma sauce + 120g Fish (tilapia)                               | 3 + 3 + 25 = 31    | 10             | 30               | \~460             |
+| ----- | ----------- | -------------------------------------------------------------------------------------- | ------------------ | -------------- | ---------------- | ----------------- |
+| 4     | Breakfast   | 3 boiled eggs + 150g Ablo                                                              | 21 + 6 = 27        | 15             | 45               | \~430             |
+|       | Snack       | 100g Beans + 100g Tomato sauce                                                         | 10 + 2 = 12        | 2              | 25               | \~210             |
+|       | Lunch       | 180g Chicken breast + 150g White rice + 150g Deku                                      | 54 + 4 + 12 = 70   | 10             | 35               | \~500             |
+|       | Snack       | 1 small plantain (150g)                                                                | 1                  | 0              | 35               | \~150             |
+|       | Dinner      | 150g Fried yam + 150g Peanut sauce + 100g Gboma sauce                                  | 3 + 15 + 3 = 21    | 15             | 30               | \~450             |
+| ----- | ----------- | -------------------------------------------------------------------------------------- | ------------------ | -------------- | ---------------- | ----------------- |
+| 5     | Breakfast   | 3 boiled eggs + 150g Akume                                                             | 21 + 6 = 27        | 15             | 40               | \~430             |
+|       | Snack       | 100g Garri + 50g Peanut sauce                                                          | 3 + 8 = 11         | 10             | 20               | \~230             |
+|       | Lunch       | 180g Chicken breast + 150g Cooked yam + 100g Ademe                                     | 54 + 3 + 3 = 60    | 5              | 30               | \~460             |
+|       | Snack       | 1 boiled egg + 100g Tomato sauce                                                       | 6 + 2 = 8          | 5              | 5                | \~80              |
+|       | Dinner      | 150g White rice + 150g Deku + 100g Gboma sauce                                         | 4 + 12 + 3 = 19    | 10             | 31               | \~450             |
+| ----- | ----------- | -------------------------------------------------------------------------------------- | ------------------ | -------------- | ---------------- | ----------------- |
+| 6     | Breakfast   | 2 eggs scrambled + 150g Akume                                                          | 14 + 6 = 20        | 12             | 40               | \~370             |
+|       | Snack       | 100g Beans + 100g Tomato sauce                                                         | 10 + 2 = 12        | 2              | 25               | \~210             |
+|       | Lunch       | 180g Chicken breast + 150g White rice + 100g Fetri                                     | 54 + 4 + 3 = 61    | 5              | 35               | \~470             |
+|       | Snack       | 1 small plantain (150g)                                                                | 1                  | 0              | 35               | \~150             |
+|       | Dinner      | 150g Cooked yam + 100g Gboma sauce + 120g Fish                                         | 3 + 3 + 25 = 31    | 10             | 30               | \~460             |
+| ----- | ----------- | -------------------------------------------------------------------------------------- | ------------------ | -------------- | ---------------- | ----------------- |
+| 7     | Breakfast   | 2 boiled eggs + 150g Ablo                                                              | 14 + 6 = 20        | 12             | 45               | \~380             |
+|       | Snack       | 100g Garri + 50g Peanut sauce                                                          | 3 + 8 = 11         | 10             | 20               | \~230             |
+|       | Lunch       | 180g Chicken breast + 150g White rice + 150g Deku                                      | 54 + 4 + 12 = 70   | 10             | 35               | \~500             |
+|       | Snack       | 1 boiled egg + 1 small tomato                                                          | 6 + 1 = 7          | 5              | 5                | \~80              |
+|       | Dinner      | 150g Fried yam + 150g Peanut sauce + 100g Gboma sauce                                  | 3 + 15 + 3 = 21    | 15             | 30               | \~450             |
