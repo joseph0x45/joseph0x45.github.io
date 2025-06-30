@@ -78,3 +78,63 @@
 |       | Lunch       | 180g Chicken breast + 150g White rice + 150g Deku                                      | 54 + 4 + 12 = 70   | 10             | 35               | \~500             |
 |       | Snack       | 1 boiled egg + 1 small tomato                                                          | 6 + 1 = 7          | 5              | 5                | \~80              |
 |       | Dinner      | 150g Fried yam + 150g Peanut sauce + 100g Gboma sauce                                  | 3 + 15 + 3 = 21    | 15             | 30               | \~450             |
+
+
+# Gusi composition per 100g
+
+| Nutrient     | Amount     |
+| ------------ | ---------- |
+| **Calories** | \~600 kcal |
+| **Protein**  | \~27g      |
+| **Fat**      | \~47g      |
+| **Carbs**    | \~16g      |
+| **Fiber**    | \~3g       |
+| **Calcium**  | \~100 mg   |
+| **Iron**     | \~3–5 mg   |
+
+# Simple Cali workout routine
+
+| Exercise              | Reps           | Sets | Rest Between Sets |
+| --------------------- | -------------- | ---- | ----------------- |
+| **Push-ups**          | 12–20 reps     | 4–5  | 30–60 sec         |
+| **Bodyweight Squats** | 15–30 reps     | 4–5  | 30–60 sec         |
+| **Plank**             | 30–60 sec hold | 3    | 30 sec            |
+| **Wall Sit**          | 30–60 sec hold | 3    | 30 sec            |
+
+| Week | Day | Workout                                                                          | Notes                       |
+| ---- | --- | -------------------------------------------------------------------------------- | --------------------------- |
+| 1    | Mon | Push-ups: 3x8-10<br>Squats: 3x15<br>Plank: 3x20s                                 | Rest 45-60s between sets    |
+|      | Tue | Walk 10k steps + Light stretching                                                | Active recovery             |
+|      | Wed | Push-ups: 3x10<br>Squats: 3x20<br>Plank: 3x30s                                   | Rest 45s between sets       |
+|      | Thu | Walk 10k steps + Light stretching                                                | Active recovery             |
+|      | Fri | Push-ups: 4x10<br>Squats: 4x20<br>Plank: 3x40s + Optional: 3x10 burpees finisher | Rest 30-45s between sets    |
+|      | Sat | Walk 10k steps or light cardio                                                   | Optional: gentle stretching |
+|      | Sun | Rest or gentle yoga/stretching                                                   | Recovery day                |
+
+| ---- | --- | -------------------------------------------------------------------------------- | --------------------------- |
+| 2    | Mon | Push-ups: 4x12<br>Squats: 4x25<br>Plank: 3x45s                                   | Rest 30-45s                 |
+|      | Tue | Walk 10k steps + Stretching                                                      | Active recovery             |
+|      | Wed | Push-ups: 4x15<br>Squats: 4x25<br>Plank: 3x50s + Optional: 3x15 burpees finisher | Increase intensity slightly |
+|      | Thu | Walk 10k steps + Stretching                                                      | Active recovery             |
+|      | Fri | Push-ups: 5x15<br>Squats: 5x30<br>Plank: 4x50s                                   | Rest 30s between sets       |
+|      | Sat | Light cardio (jogging, cycling) + Stretching                                     | Optional                    |
+|      | Sun | Rest or gentle yoga/stretching                                                   | Recovery day                |
+
+| ---- | --- | -------------------------------------------------------------------------------- | --------------------- |
+| 3    | Mon | Push-ups: 5x15<br>Squats: 5x30<br>Plank: 4x60s + Optional: 4x15 burpees finisher | Rest 30s between sets |
+|      | Tue | Walk 10k steps + Stretching                                                      | Active recovery       |
+|      | Wed | Push-ups: 5x18<br>Squats: 5x35<br>Plank: 4x60s                                   | Focus on form         |
+|      | Thu | Walk 10k steps + Stretching                                                      | Active recovery       |
+|      | Fri | Push-ups: 6x18<br>Squats: 6x35<br>Plank: 5x60s + Optional: 4x20 burpees finisher | Challenge yourself    |
+|      | Sat | Light cardio + Stretching                                                        | Optional              |
+|      | Sun | Rest or gentle yoga/stretching                                                   | Recovery day          |
+
+| ---- | --- | -------------------------------------------------------------------------------- | ---------------------------------- |
+| 4    | Mon | Push-ups: 6x20<br>Squats: 6x40<br>Plank: 5x60s + Optional: 5x20 burpees finisher | Rest 20-30s between sets           |
+|      | Tue | Walk 10k steps + Stretching                                                      | Active recovery                    |
+|      | Wed | Push-ups: 6x20<br>Squats: 6x40<br>Plank: 5x60s                                   | Solid form focus                   |
+|      | Thu | Walk 10k steps + Stretching                                                      | Active recovery                    |
+|      | Fri | Push-ups: 7x20<br>Squats: 7x45<br>Plank: 5x75s + Optional: 5x25 burpees finisher | Push hard, but listen to your body |
+|      | Sat | Light cardio + Stretching                                                        | Optional                           |
+|      | Sun | Rest or gentle yoga/stretching                                                   | Recovery day                       |
+
