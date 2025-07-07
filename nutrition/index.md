@@ -137,4 +137,3 @@
 |      | Fri | Push-ups: 7x20<br>Squats: 7x45<br>Plank: 5x75s + Optional: 5x25 burpees finisher | Push hard, but listen to your body |
 |      | Sat | Light cardio + Stretching                                                        | Optional                           |
 |      | Sun | Rest or gentle yoga/stretching                                                   | Recovery day                       |
-
